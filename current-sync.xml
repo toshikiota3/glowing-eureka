@@ -1,0 +1,299 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sync version="1.0" name="Simple Networking">
+  <meta>
+    <client>
+      <limitStorageSpace>False</limitStorageSpace>
+      <base>C:\Users\oota\Desktop\osaka-metro</base>
+      <next>/current-sync.xml</next>
+      <event>EVENT</event>
+      <error>ERROR</error>
+      <deviceerror>DEVICEERROR</deviceerror>
+      <uploadusage>UPLOADUSAGE</uploadusage>
+      <getfile>GETFILE</getfile>
+      <uploadlogs />
+      <uploadsnapshots />
+      <timeBetweenNetConnects>300</timeBetweenNetConnects>
+      <contentDownloadsRestricted>yes</contentDownloadsRestricted>
+      <contentDownloadRangeStart />
+      <contentDownloadRangeLength />
+      <playbackLoggingEnabled>no</playbackLoggingEnabled>
+      <eventLoggingEnabled>no</eventLoggingEnabled>
+      <diagnosticLoggingEnabled>no</diagnosticLoggingEnabled>
+      <stateLoggingEnabled>no</stateLoggingEnabled>
+      <variableLoggingEnabled>no</variableLoggingEnabled>
+      <uploadLogFilesAtBoot>no</uploadLogFilesAtBoot>
+      <uploadLogFilesAtSpecificTime>no</uploadLogFilesAtSpecificTime>
+      <uploadLogFilesTime>0</uploadLogFilesTime>
+      <enableSerialDebugging>False</enableSerialDebugging>
+      <enableSystemLogDebugging>False</enableSystemLogDebugging>
+      <deviceScreenShotsEnabled>yes</deviceScreenShotsEnabled>
+      <deviceScreenShotsInterval>300</deviceScreenShotsInterval>
+      <deviceScreenShotsCountLimit>5</deviceScreenShotsCountLimit>
+      <deviceScreenShotsQuality>50</deviceScreenShotsQuality>
+      <deviceScreenShotsDisplayPortrait>True</deviceScreenShotsDisplayPortrait>
+    </client>
+    <server>
+      <account>ACCOUNT</account>
+      <user />
+      <password />
+      <enableUnsafeAuthentication>False</enableUnsafeAuthentication>
+      <group>GROUPNAME</group>
+    </server>
+  </meta>
+  <files>
+    <download>
+      <name>autoplay-Project 1.xml</name>
+      <hash method="SHA1">b0b766d00dacde98a8461de731a8e8e93ebe33c6</hash>
+      <size>12468</size>
+      <link>file:///C:/Users/oota/Desktop/osaka-metro/pool/c/6/sha1-b0b766d00dacde98a8461de731a8e8e93ebe33c6</link>
+      <headers inherit="no" />
+      <chargeable>no</chargeable>
+    </download>
+    <download>
+      <name>Project 1.bml</name>
+      <hash method="SHA1">b8950547900c42c1615b8b9946d701455f984cd9</hash>
+      <size>11705</size>
+      <link>file:///C:/Users/oota/Desktop/osaka-metro/pool/d/9/sha1-b8950547900c42c1615b8b9946d701455f984cd9</link>
+      <headers inherit="no" />
+      <chargeable>no</chargeable>
+    </download>
+    <download>
+      <name>test_1920_1080.png</name>
+      <hash method="SHA1">ad681405cde19f6b55280c652482b91445d04a85</hash>
+      <size>25530</size>
+      <link>file:///C:/Users/oota/Desktop/osaka-metro/pool/8/5/sha1-ad681405cde19f6b55280c652482b91445d04a85</link>
+      <headers inherit="no" />
+      <chargeable>no</chargeable>
+    </download>
+    <download>
+      <name>BrightSignApplicationServer-404.html</name>
+      <hash method="SHA1">740fc96551a29aba076ff447fd3f8973c688e2d7</hash>
+      <size>3393</size>
+      <link>file:///C:/Users/oota/Desktop/osaka-metro/pool/d/7/sha1-740fc96551a29aba076ff447fd3f8973c688e2d7</link>
+      <headers inherit="no" />
+      <chargeable>no</chargeable>
+    </download>
+    <download>
+      <name>BrightSignApplicationServer-bas.html</name>
+      <hash method="SHA1">8899e2dbe1a4b7399b9a18fa21830d2d1934ec48</hash>
+      <size>878</size>
+      <link>file:///C:/Users/oota/Desktop/osaka-metro/pool/4/8/sha1-8899e2dbe1a4b7399b9a18fa21830d2d1934ec48</link>
+      <headers inherit="no" />
+      <chargeable>no</chargeable>
+    </download>
+    <download>
+      <name>BrightSignApplicationServer-favicon.ico</name>
+      <hash method="SHA1">a1bae6f0516a56cf140aa7177e9559418fe8f85e</hash>
+      <size>1150</size>
+      <link>file:///C:/Users/oota/Desktop/osaka-metro/pool/5/e/sha1-a1bae6f0516a56cf140aa7177e9559418fe8f85e</link>
+      <headers inherit="no" />
+      <chargeable>no</chargeable>
+    </download>
+    <download>
+      <name>BrightSignApplicationServer-index.html</name>
+      <hash method="SHA1">87d1eb6a86ba28bfa8008f10be7136fb0ed15e0c</hash>
+      <size>201</size>
+      <link>file:///C:/Users/oota/Desktop/osaka-metro/pool/0/c/sha1-87d1eb6a86ba28bfa8008f10be7136fb0ed15e0c</link>
+      <headers inherit="no" />
+      <chargeable>no</chargeable>
+    </download>
+    <download>
+      <name>BrightSignApplicationServer-robots.txt</name>
+      <hash method="SHA1">3ab05768bd908347af276df97617571b5f950c28</hash>
+      <size>31</size>
+      <link>file:///C:/Users/oota/Desktop/osaka-metro/pool/2/8/sha1-3ab05768bd908347af276df97617571b5f950c28</link>
+      <headers inherit="no" />
+      <chargeable>no</chargeable>
+    </download>
+    <download>
+      <name>BrightSignApplicationServer-fonts/glyphicons-halflings-regular.eot</name>
+      <hash method="SHA1">f3a9a3b609133c3d21d6b42abbf7f43bd111df72</hash>
+      <size>20335</size>
+      <link>file:///C:/Users/oota/Desktop/osaka-metro/pool/7/2/sha1-f3a9a3b609133c3d21d6b42abbf7f43bd111df72</link>
+      <headers inherit="no" />
+      <chargeable>no</chargeable>
+    </download>
+    <download>
+      <name>BrightSignApplicationServer-fonts/glyphicons-halflings-regular.svg</name>
+      <hash method="SHA1">66b1fc67e37d01ee45ca75c4eefb144d2dbe98fa</hash>
+      <size>62926</size>
+      <link>file:///C:/Users/oota/Desktop/osaka-metro/pool/f/a/sha1-66b1fc67e37d01ee45ca75c4eefb144d2dbe98fa</link>
+      <headers inherit="no" />
+      <chargeable>no</chargeable>
+    </download>
+    <download>
+      <name>BrightSignApplicationServer-fonts/glyphicons-halflings-regular.ttf</name>
+      <hash method="SHA1">aafafdc09404c4aa4447d7e898a2183def9cc1b1</hash>
+      <size>41280</size>
+      <link>file:///C:/Users/oota/Desktop/osaka-metro/pool/b/1/sha1-aafafdc09404c4aa4447d7e898a2183def9cc1b1</link>
+      <headers inherit="no" />
+      <chargeable>no</chargeable>
+    </download>
+    <download>
+      <name>BrightSignApplicationServer-fonts/glyphicons-halflings-regular.woff</name>
+      <hash method="SHA1">22037a3455914e5662fa51a596677bdb329e2c5c</hash>
+      <size>23320</size>
+      <link>file:///C:/Users/oota/Desktop/osaka-metro/pool/5/c/sha1-22037a3455914e5662fa51a596677bdb329e2c5c</link>
+      <headers inherit="no" />
+      <chargeable>no</chargeable>
+    </download>
+    <download>
+      <name>BrightSignApplicationServer-html/landing/landing.html</name>
+      <hash method="SHA1">f71be1e9fc8dc38cadb5e3cbf8fcad4f7368a9e0</hash>
+      <size>886</size>
+      <link>file:///C:/Users/oota/Desktop/osaka-metro/pool/e/0/sha1-f71be1e9fc8dc38cadb5e3cbf8fcad4f7368a9e0</link>
+      <headers inherit="no" />
+      <chargeable>no</chargeable>
+    </download>
+    <download>
+      <name>BrightSignApplicationServer-html/remote-snapshot/configure-snapshots.html</name>
+      <hash method="SHA1">19aebb30bc487d5ce7b7ff009d6e2f1746dddcfe</hash>
+      <size>4216</size>
+      <link>file:///C:/Users/oota/Desktop/osaka-metro/pool/f/e/sha1-19aebb30bc487d5ce7b7ff009d6e2f1746dddcfe</link>
+      <headers inherit="no" />
+      <chargeable>no</chargeable>
+    </download>
+    <download>
+      <name>BrightSignApplicationServer-html/remote-snapshot/view-snapshots.html</name>
+      <hash method="SHA1">1bfae55189a796ae5b6daa90e56c09534312b251</hash>
+      <size>2243</size>
+      <link>file:///C:/Users/oota/Desktop/osaka-metro/pool/5/1/sha1-1bfae55189a796ae5b6daa90e56c09534312b251</link>
+      <headers inherit="no" />
+      <chargeable>no</chargeable>
+    </download>
+    <download>
+      <name>BrightSignApplicationServer-images/bg_main_background.ec008440.png</name>
+      <hash method="SHA1">af0bc48cf35bfaee4f21f99a8e48594fa514ee8f</hash>
+      <size>98</size>
+      <link>file:///C:/Users/oota/Desktop/osaka-metro/pool/8/f/sha1-af0bc48cf35bfaee4f21f99a8e48594fa514ee8f</link>
+      <headers inherit="no" />
+      <chargeable>no</chargeable>
+    </download>
+    <download>
+      <name>BrightSignApplicationServer-images/bs-logo.558b3252.png</name>
+      <hash method="SHA1">19240f186609ea1cbf728c3687f75e1bcb977987</hash>
+      <size>2914</size>
+      <link>file:///C:/Users/oota/Desktop/osaka-metro/pool/8/7/sha1-19240f186609ea1cbf728c3687f75e1bcb977987</link>
+      <headers inherit="no" />
+      <chargeable>no</chargeable>
+    </download>
+    <download>
+      <name>BrightSignApplicationServer-scripts/brightsign.087c41eb.js</name>
+      <hash method="SHA1">fa1157d9899362291d7f289aa53bc7ef54c0fd50</hash>
+      <size>8261</size>
+      <link>file:///C:/Users/oota/Desktop/osaka-metro/pool/5/0/sha1-fa1157d9899362291d7f289aa53bc7ef54c0fd50</link>
+      <headers inherit="no" />
+      <chargeable>no</chargeable>
+    </download>
+    <download>
+      <name>BrightSignApplicationServer-scripts/oldieshim.76f279db.js</name>
+      <hash method="SHA1">370f5dbee879aaad2c37b589123017530e064487</hash>
+      <size>20978</size>
+      <link>file:///C:/Users/oota/Desktop/osaka-metro/pool/8/7/sha1-370f5dbee879aaad2c37b589123017530e064487</link>
+      <headers inherit="no" />
+      <chargeable>no</chargeable>
+    </download>
+    <download>
+      <name>BrightSignApplicationServer-scripts/vendor.93fc20a3.js</name>
+      <hash method="SHA1">1a7e3e7ff6c2ee0da3867f29173da34d18b6e4d7</hash>
+      <size>329963</size>
+      <link>file:///C:/Users/oota/Desktop/osaka-metro/pool/d/7/sha1-1a7e3e7ff6c2ee0da3867f29173da34d18b6e4d7</link>
+      <headers inherit="no" />
+      <chargeable>no</chargeable>
+    </download>
+    <download>
+      <name>BrightSignApplicationServer-styles/brightsign.1ea7f101.css</name>
+      <hash method="SHA1">41989e2ff79dd7bd1b294cb382e654c234a38b46</hash>
+      <size>1276</size>
+      <link>file:///C:/Users/oota/Desktop/osaka-metro/pool/4/6/sha1-41989e2ff79dd7bd1b294cb382e654c234a38b46</link>
+      <headers inherit="no" />
+      <chargeable>no</chargeable>
+    </download>
+    <download>
+      <name>BrightSignApplicationServer-styles/vendor.51dd6dba.css</name>
+      <hash method="SHA1">e0ed151874827272f4caadbdcf45f82075472bcb</hash>
+      <size>132555</size>
+      <link>file:///C:/Users/oota/Desktop/osaka-metro/pool/c/b/sha1-e0ed151874827272f4caadbdcf45f82075472bcb</link>
+      <headers inherit="no" />
+      <chargeable>no</chargeable>
+    </download>
+    <download>
+      <name>autorun.brs</name>
+      <hash method="SHA1">2b1830cfc4bee82107bf38b38ba9edf94cdd2bcb</hash>
+      <size>1166547</size>
+      <link>file:///C:/Users/oota/Desktop/osaka-metro/pool/c/b/sha1-2b1830cfc4bee82107bf38b38ba9edf94cdd2bcb</link>
+      <group>script</group>
+      <headers inherit="no" />
+      <chargeable>no</chargeable>
+    </download>
+    <download>
+      <name>autoschedule.xml</name>
+      <hash method="SHA1">98f226f33d60589745b4a856604e26fd281d2ed0</hash>
+      <size>930</size>
+      <link>file:///C:/Users/oota/Desktop/osaka-metro/pool/d/0/sha1-98f226f33d60589745b4a856604e26fd281d2ed0</link>
+      <headers inherit="no" />
+      <chargeable>no</chargeable>
+    </download>
+    <download>
+      <name>resources.txt</name>
+      <hash method="SHA1">bff42d612a4c7ef61bb31588ba9fe517a9937c3b</hash>
+      <size>2357</size>
+      <link>file:///C:/Users/oota/Desktop/osaka-metro/pool/3/b/sha1-bff42d612a4c7ef61bb31588ba9fe517a9937c3b</link>
+      <headers inherit="no" />
+      <chargeable>no</chargeable>
+    </download>
+    <download>
+      <name>autoplugins.brs</name>
+      <hash method="SHA1">a0acb3e76c85e48d326e802428b23f0325667410</hash>
+      <size>146</size>
+      <link>file:///C:/Users/oota/Desktop/osaka-metro/pool/1/0/sha1-a0acb3e76c85e48d326e802428b23f0325667410</link>
+      <group>script</group>
+      <headers inherit="no" />
+      <chargeable>no</chargeable>
+    </download>
+    <download>
+      <name>_deviceWebPage.html</name>
+      <hash method="SHA1">f84cf1a0d4351bdc4c2072ebe8c21b1550da9962</hash>
+      <size>116305</size>
+      <link>file:///C:/Users/oota/Desktop/osaka-metro/pool/6/2/sha1-f84cf1a0d4351bdc4c2072ebe8c21b1550da9962</link>
+      <headers inherit="no" />
+      <chargeable>no</chargeable>
+    </download>
+    <download>
+      <name>_deviceIdWebPage.html</name>
+      <hash method="SHA1">434f8868b3edca30e3bb0ca76e5042c8e83f0588</hash>
+      <size>117293</size>
+      <link>file:///C:/Users/oota/Desktop/osaka-metro/pool/8/8/sha1-434f8868b3edca30e3bb0ca76e5042c8e83f0588</link>
+      <headers inherit="no" />
+      <chargeable>no</chargeable>
+    </download>
+    <download>
+      <name>featureMinRevs.xml</name>
+      <hash method="SHA1">c5a7f8e428e8e08c46d324126f9101dd4e27c42d</hash>
+      <size>1311</size>
+      <link>file:///C:/Users/oota/Desktop/osaka-metro/pool/2/d/sha1-c5a7f8e428e8e08c46d324126f9101dd4e27c42d</link>
+      <headers inherit="no" />
+      <chargeable>no</chargeable>
+    </download>
+    <download>
+      <name>BoseProducts.xml</name>
+      <hash method="SHA1">65921129654c5b149d4d370e41aa8713af01d1ee</hash>
+      <size>14990</size>
+      <link>file:///C:/Users/oota/Desktop/osaka-metro/pool/e/e/sha1-65921129654c5b149d4d370e41aa8713af01d1ee</link>
+      <headers inherit="no" />
+      <chargeable>no</chargeable>
+    </download>
+    <delete>
+      <pattern>*.brs</pattern>
+    </delete>
+    <delete>
+      <pattern>*.rok</pattern>
+    </delete>
+    <delete>
+      <pattern>*.bsfw</pattern>
+    </delete>
+    <ignore>
+      <pattern>*</pattern>
+    </ignore>
+  </files>
+</sync>
